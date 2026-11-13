@@ -80,4 +80,4 @@ public class SettingsScreen extends Screen {
     public void removed() {
         SnakeConfig.save();
     }
-          }
+                         }
